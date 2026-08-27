@@ -1,0 +1,20 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local outputs and cache
+outputs/
+frames_*/
+*.tif
+*.csv
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

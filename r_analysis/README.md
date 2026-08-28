@@ -6,11 +6,11 @@ R scripts that reproduce the numerical results reported in Islam et al. (2024) f
 
 | Script | Reproduces | Requires |
 |---|---|---|
-| `USDM_validation_kappa.R` | Section 4.2 kappa metrics (Table 4, Table 5, Figure 3) | Paired-sample CSVs from `gee/EcoDRI_USDM_Validation_Sampling.js` |
-| `threshold_recalibration.R` | Section 2.6 threshold values (Table 2) | Same paired-sample CSVs |
-| `yield_validation.R` | Section 4.3 crop correlations (Figure 4b, Figure 6) | County CSVs from `gee/EcoDRI_County_Aggregation.js` + NASS API access |
-| `ecological_validation.R` | Section 4.1 primary ecological result (Figure 7, Table 6) | Ecoregion CSVs from `gee/EcoDRI_Ecoregion_Aggregation.js` and `gee/RAP_Ecoregion_Aggregation.js` |
-| `ablation_analysis.R` | Section 4.4 weighting-scheme comparison | Paired-sample CSVs (with raw components) |
+| `USDM_validation_kappa.R` | kappa metrics | Paired-sample CSVs from `gee/EcoDRI_USDM_Validation_Sampling.js` |
+| `threshold_recalibration.R` | threshold values | Same paired-sample CSVs |
+| `yield_validation.R` | crop correlations | County CSVs from `gee/EcoDRI_County_Aggregation.js` + NASS API access |
+| `ecological_validation.R` | primary ecological result | Ecoregion CSVs from `gee/EcoDRI_Ecoregion_Aggregation.js` and `gee/RAP_Ecoregion_Aggregation.js` |
+| `ablation_analysis.R` | weighting-scheme comparison | Paired-sample CSVs (with raw components) |
 
 ## Prerequisites
 

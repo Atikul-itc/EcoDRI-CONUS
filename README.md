@@ -2,9 +2,9 @@
 
 Google Earth Engine and R analysis code for the weekly Ecological Drought Index (EcoDRI) dataset covering the conterminous United States, 2001-2024.
 
-**Companion paper:** Islam, A. *et al.* A weekly multi-source Ecological Drought Index (EcoDRI) for the conterminous United States, 2001-2024. *Scientific Data* (in review).
+**Citation:** Hoque, A. *et al.* A weekly multi-source Ecological Drought Index (EcoDRI) for the conterminous United States, 2001-2024. *Scientific Data* (in review).
 
-**Published dataset:** [Zenodo DOI 10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx) (to be assigned upon publication).
+**Published dataset:** [Zenodo DOI [10.xxxx/xxxxx](https://doi.org/10.5281/zenodo.22119391)](https://zenodo.org/records/22119391) (to be assigned upon publication).
 
 **Interactive viewer:** [EcoDRI Earth Engine app](https://ee-atikul.projects.earthengine.app/view/ecodri-conus).
 
@@ -87,7 +87,7 @@ Run each R script from `r_analysis/`. Output tables and headline summaries land 
 
 ## Data availability
 
-The weekly EcoDRI composites (2001-2024) are archived at [Zenodo DOI 10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx) as multi-band GeoTIFFs. They are also mirrored in the Google Earth Engine asset collection `projects/ee-atikul/assets/EcoDRI_v3_2_growing_season`.
+The weekly EcoDRI composites (2001-2024) are archived at [Zenodo DOI 10.5281/zenodo.22119391](https://zenodo.org/records/22119391) as multi-band GeoTIFFs.
 
 ## License
 
@@ -97,8 +97,3 @@ Code is released under the [MIT License](LICENSE). The EcoDRI dataset itself is 
 
 If you use EcoDRI in your research, please cite the paper and the Zenodo archive. See [CITATION.cff](CITATION.cff).
 
-## Contact
-
-Atikul Islam (`atikul` [at] `nmsu.edu`)
-Buenemann Lab, Department of Geography and Environmental Studies
-New Mexico State University

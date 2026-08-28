@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or the EcoDRI dataset, please cite the companion paper and the Zenodo archive."
+title: "EcoDRI-CONUS: Weekly Ecological Drought Index for the Conterminous United States"
+authors:
+  - family-names: Islam
+    given-names: Atikul
+    affiliation: "New Mexico State University"
+  - family-names: Buenemann
+    given-names: Michaela
+    affiliation: "New Mexico State University"
+version: 3.2
+date-released: 2024
+license: MIT
+repository-code: "https://github.com/Atikul-itc/EcoDRI-CONUS"
+url: "https://ee-atikul.projects.earthengine.app/view/ecodri-conus"
+preferred-citation:
+  type: article
+  title: "A weekly multi-source Ecological Drought Index (EcoDRI) for the conterminous United States, 2001-2024"
+  authors:
+    - family-names: Islam
+      given-names: Atikul
+    - family-names: Buenemann
+      given-names: Michaela
+  journal: "Scientific Data"
+  year: 2024
+  doi: "10.xxxx/xxxxx"

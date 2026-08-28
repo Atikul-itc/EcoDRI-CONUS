@@ -4,7 +4,7 @@ Google Earth Engine and R analysis code for the weekly Ecological Drought Index 
 
 **Citation:** Hoque, A. *et al.* A weekly multi-source Ecological Drought Index (EcoDRI) for the conterminous United States, 2001-2024. *Scientific Data* (in review).
 
-**Published dataset:** [Zenodo DOI [10.xxxx/xxxxx](https://doi.org/10.5281/zenodo.22119391)](https://zenodo.org/records/22119391) (to be assigned upon publication).
+**Published dataset:** [Zenodo DOI [10.5281/zenodo.22119391](https://doi.org/10.5281/zenodo.22119391)](https://zenodo.org/records/22119391) (to be assigned upon publication).
 
 **Interactive viewer:** [EcoDRI Earth Engine app](https://ee-atikul.projects.earthengine.app/view/ecodri-conus).
 

@@ -46,14 +46,6 @@ EcoDRI-CONUS/
 
 Five scripts reproduce the numbers in the paper from the CSV outputs of the GEE pipeline. See `r_analysis/README.md` for details.
 
-| Script | Reproduces |
-|---|---|
-| `threshold_recalibration.R` | Table 2 recalibrated thresholds |
-| `USDM_validation_kappa.R`   | Table 4, Table 5, Figure 3 (test-fold kappa = 0.44) |
-| `yield_validation.R`        | Figure 4b, Figure 6 (r = -0.45, -0.36, -0.11 for corn, soybeans, wheat) |
-| `ecological_validation.R`   | Figure 7, Table 6 (per-ecoregion median r = -0.66 in water-limited biomes) |
-| `ablation_analysis.R`       | Section 4.4 four-scheme comparison |
-
 ## How to run
 
 ### Step 1: Weekly EcoDRI generation (GEE)

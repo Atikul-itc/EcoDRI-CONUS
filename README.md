@@ -93,7 +93,4 @@ The weekly EcoDRI composites (2001-2024) are archived at [Zenodo DOI 10.5281/zen
 
 Code is released under the [MIT License](LICENSE). The EcoDRI dataset itself is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-## Citation
-
-If you use EcoDRI in your research, please cite the paper and the Zenodo archive. See [CITATION.cff](CITATION.cff).
 
